@@ -3,7 +3,7 @@
    "repository": "CyanogenMod/lge-kernel-mako",
    "target_path": "kernel/lge/mako",
    "branch": "cm-10.2"
- }
+ },
  {
    "repository": "TheMuppets/proprietary_vendor_lge",
    "target_path": "vendor/lge",
