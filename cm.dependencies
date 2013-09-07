@@ -1,7 +1,7 @@
 [
  {
-   "repository": "CyanogenMod/lge-kernel-mako",
-   "target_path": "kernel/lge/mako",
+   "repository": "android_kernel_google_msm",
+   "target_path": "kernel/google/msm",
    "branch": "cm-10.2"
  },
  {
