@@ -1,7 +1,8 @@
 [
  {
-   "repository": "CyanDreamProject/android_kernel_lge_mako",
-   "target_path": "kernel/lge/mako"
+   "repository": "CyanogenMod/android_kernel_google_msm",
+   "target_path": "kernel/google/msm",
+   "branch": "cm-10.2"
  },
  {
    "repository": "TheMuppets/proprietary_vendor_lge",
